@@ -1,0 +1,10 @@
+$ git branch -a  ? так как ветка вторая не показывается
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/develop
+  remotes/origin/main
+
+ /c/GitHub/TelRanGit/TelRunGit (main)
+$ git checkout develop
+Switched to a new branch 'develop'
+branch 'develop' set up to track 'origin/develop'.
